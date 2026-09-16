@@ -1,4 +1,4 @@
-<form style="margin: 10px; padding: 10px;">
+<form action="functions.php" method="GET" style="margin: 10px; padding: 10px;">
     <div>
         <label for="returnDate">Return Date:</label>
         <input type="date" name="returnDate">
