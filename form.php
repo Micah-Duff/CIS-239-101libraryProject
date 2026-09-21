@@ -1,3 +1,4 @@
+<!-- File Created by: Micah Duff -->
 <form action="functions.php" method="GET" style="margin: 10px; padding: 10px;">
     <div>
         <label for="returnDate">Return Date:</label>
