@@ -1,12 +1,12 @@
 <!-- File Created by: Micah Duff -->
-<form action="functions.php" method="GET" style="margin: 10px; padding: 10px;">
+<form  method="GET" class="container text-center display-6" style="margin-top: 10;">
     <div>
         <label for="returnDate">Return Date:</label>
-        <input type="date" name="returnDate">
+        <input type="date" name="returnDateg">
         <br>
         <label for="dueDate">Due Date:</label>
         <input type="date" name="dueDate">
     </div>
     <hr>
-    <input type="submit" value="Check-in Book">
+    <input type="submit" value="Check-in Book" class="btn btn-primary">
 </form>
