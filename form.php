@@ -2,7 +2,7 @@
 <form  method="GET" class="container text-center display-6" style="margin-top: 10;">
     <div>
         <label for="returnDate">Return Date:</label>
-        <input type="date" name="returnDateg">
+        <input type="date" name="returnDate">
         <br>
         <label for="dueDate">Due Date:</label>
         <input type="date" name="dueDate">
